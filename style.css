@@ -1,0 +1,104 @@
+a{
+  text-decoration: none;
+  color: #9E6C5D;
+}
+
+.name-banner{
+  background-color: #BD9B6F;
+}
+
+.name{
+  font-family: "Ruthie", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.name-tagline{
+  font-family: "Metamorphous", serif;
+  font-weight: 400;
+  font-style: oblique;
+  color: #332B3D;
+}
+.small-edit-name-tagline{
+  color: #F8CC92;
+  font-weight: bolder;
+}
+
+.intro{
+  background-color: #D5D5D5;
+}
+
+.profile-pic{
+  border-radius: 50%;
+  width:35vh;
+}
+
+.btn-pri,.btn-pri:hover{
+  border-color: #9E6C5D;
+  background-color: #9E6C5D;
+  color: white;
+  width: 8rem;
+  text-align: end;
+}
+
+.btn-outline-pri,.btn-outline-pri:hover{
+  border-color: #9E6C5D;
+  color: #9E6C5D;
+  width: 10rem;
+  text-align: start;
+}
+
+.education,.skills,.hobbies{
+  background-color: #D5D5D5;
+}
+
+.institute-images{
+  height: 60vh;
+  object-fit: cover;
+}
+
+.carousel-caption-edit{
+  opacity: 0;
+}
+
+.carousel-edit:hover .institute-images{
+  opacity: 20%;
+}
+
+.carousel-edit:hover .carousel-caption-edit{
+  color: #2A1D19;
+  opacity: 100%;
+  text-shadow: 1px 1px #9D6D5E;
+}
+
+.highlight-this{
+  background-color: #82724D;
+  font-style: oblique;
+}
+
+.institute-link{
+  text-shadow: none;
+  color: #2A1D19;
+  font-weight: 600;
+  border-color: #2A1D19;
+}
+
+.institute-link:hover{
+  text-shadow: none;
+  color: white;
+  font-weight: 600;
+  border-color: #2A1D19;
+  background-color: #2A1D19;
+}
+
+.institute-link:active{
+  text-shadow: none;
+  color: white;
+  font-weight: 600;
+  border-color: #2A1D19;
+  background-color: #2A1D19;
+}
+
+.footer{
+  background-color: #D9CEBF;
+}
