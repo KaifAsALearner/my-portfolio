@@ -99,6 +99,11 @@ a{
   background-color: #2A1D19;
 }
 
+.hob-text{
+  color: #D9BE80;
+  text-shadow: 2px 2px 2px #2A1D19;
+}
+
 .footer{
   background-color: #D9CEBF;
 }
